@@ -1,1 +1,4 @@
-rootProject.name = 'demo'
+include 'api'
+include 'library'
+
+rootProject.name = 'multimodule-example'
